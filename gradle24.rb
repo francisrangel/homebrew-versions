@@ -12,5 +12,4 @@ class Gradle24 < Formula
   test do
     system "#{bin}/gradle", "-version"
   end
-
 end
